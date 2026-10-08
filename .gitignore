@@ -1,0 +1,13 @@
+data/*
+!data/sample_20.jsonl
+!data/prompts.json
+results/*.jsonl
+!results/hearsay_verbatim_pilot.jsonl
+.env
+*.env
+.env.*
+*.key
+.venv/
+.DS_Store
+__pycache__/
+media/storyboard.png

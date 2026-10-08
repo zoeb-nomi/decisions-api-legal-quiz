@@ -1,0 +1,8 @@
+# Python 3.13. ffmpeg (6.x) is a system dependency for animate.py.
+numpy==2.5.3
+matplotlib==3.11.2
+pandas==3.0.5
+huggingface_hub==2.1.1
+fonttools==4.66.1
+brotli==1.2.0
+pillow==12.3.0

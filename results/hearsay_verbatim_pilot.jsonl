@@ -1,0 +1,10 @@
+{"id": "hearsay-7", "task": "hearsay", "human_label": false, "input_tokens": 37, "usd": 3.7e-06, "probability": null, "status": "refusal", "raw": {"model": "gpt-6-luna", "answers": [{"type": "refusal", "name": "answer"}], "usage": {"input_tokens": 37, "input_tokens_details": {"cached_tokens": 0, "cache_write_tokens": 0}, "output_tokens": 0, "output_tokens_details": {"reasoning_tokens": 0}, "total_tokens": 37}}}
+{"id": "hearsay-91", "task": "hearsay", "human_label": false, "input_tokens": 197, "usd": 1.97e-05, "probability": 0.87, "status": "ok"}
+{"id": "hearsay-79", "task": "hearsay", "human_label": false, "input_tokens": 199, "usd": 1.9900000000000003e-05, "probability": 0.82, "status": "ok"}
+{"id": "hearsay-58", "task": "hearsay", "human_label": true, "input_tokens": 199, "usd": 1.9900000000000003e-05, "probability": 0.09, "status": "ok"}
+{"id": "hearsay-78", "task": "hearsay", "human_label": false, "input_tokens": 200, "usd": 2e-05, "probability": 0.99, "status": "ok"}
+{"id": "hearsay-40", "task": "hearsay", "human_label": true, "input_tokens": 194, "usd": 1.94e-05, "probability": 0.99, "status": "ok"}
+{"id": "hearsay-25", "task": "hearsay", "human_label": false, "input_tokens": 197, "usd": 1.97e-05, "probability": 0.79, "status": "ok"}
+{"id": "hearsay-77", "task": "hearsay", "human_label": false, "input_tokens": 196, "usd": 1.9600000000000002e-05, "probability": 0.99, "status": "ok"}
+{"id": "hearsay-16", "task": "hearsay", "human_label": false, "input_tokens": 200, "usd": 2e-05, "probability": 0.88, "status": "ok"}
+{"id": "hearsay-27", "task": "hearsay", "human_label": false, "input_tokens": 208, "usd": 2.08e-05, "probability": 0.82, "status": "ok"}
